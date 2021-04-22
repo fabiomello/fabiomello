@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hello, I am Fábio Mello 🇧🇷
 
-<!--
-**fabiomello/fabiomello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▶️ About the future:
+- 🔭 Working on:
+  - TiFlux (www.tiflux.com) - Founder and Product Owner
+  - Informatech (www.informatech.com.br) - Advisor and Cloud Specialist
+  - Open Source Projects
 
-Here are some ideas to get you started:
+◀️ About the past:
+- 💻 SysAdmin and DevOps at Informatech (www.informatech.com.br)
+  - Linux
+    - Firewall/UTM
+      - iptables
+      - pfSense
+      - Sophos
+      - Endian
+    - Fileserver
+    - Mailserver
+    - Zimbra
+    - Zabbix
+    - Puppet
+    - DNS
+    - Apache2
+    - Nginx/OpenResty
+    - PostgreSQL Database Server
+    - MySQL Database Server
+    - Bash, Perl and Python scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Worked with programming languages:
+  - Ruby on Rails
+  - Python
+  - Perl
+  - C#
+  - NodeJS/Electron
+  - PHP
+  - React Native
+  - ReactJS
+  - AngularJS
+  - JQuery
