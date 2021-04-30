@@ -28,7 +28,7 @@
     - MySQL Database Server
     - Bash, Perl and Python scripting
 
-Worked with programming languages:
+Worked with programming languages/frameworks:
   - Ruby on Rails
   - Python
   - Perl
